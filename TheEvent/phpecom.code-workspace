@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../xampp/htdocs/sharma-coder/phpecom"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "TheEvent"
+	}
+}

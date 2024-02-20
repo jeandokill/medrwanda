@@ -1,0 +1,6 @@
+123 Main St, City, Country
+Facebook: https://www.facebook.com/yourpage
+Twitter: https://twitter.com/yourpage
+Instagram: https://www.instagram.com/yourpage
+WhatsApp: https://www.watsapp.com/yourpage
+LinkedIn: https://www.linkedin.com/yourpage
