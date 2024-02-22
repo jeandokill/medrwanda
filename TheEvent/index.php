@@ -329,13 +329,9 @@ $teamResult = mysqli_query($connection, "SELECT * FROM team_members");
         </div>
     </div>
 </section>
-
-
-
-    <!-- ======= Subscribe Section ======= -->
    <!-- Subscribe Section -->
 
-<section id="subscribe">
+ <section id="subscribe">
   <div class="container" data-aos="zoom-in">
     <div class="section-header">
       <h2>Newsletter</h2>
@@ -344,9 +340,11 @@ $teamResult = mysqli_query($connection, "SELECT * FROM team_members");
 
     <form id="subscribe-form" method="POST" action="/EVENT/admin/subscribe/subscribe.php">
       <div class="row justify-content-center">
-        <div class="col-lg-6 col-md-10 d-flex">
-          <input id="email-input" type="email" name="email" class="form-control" placeholder="Enter your Email" required>
-          <button type="submit" class="ms-2">Subscribe</button>
+        <div class="col-lg-6 col-md-10">
+          <div class="input-group mb-3">
+            <input id="email-input" type="email" name="email" class="form-control" placeholder="Enter your Email" required>
+            <button type="submit" class="btn btn-primary">Subscribe</button>
+          </div>
         </div>
       </div>
     </form>
